@@ -1,5 +1,11 @@
 <template>
     <div>
+        <div>
+            路由列表：
+            <nuxt-link to="/">首页</nuxt-link>
+            <nuxt-link to="/user">user</nuxt-link>
+        </div>
+        <div>=== 以下是内容 ===</div>
         <nuxt />
     </div>
 </template>
