@@ -4,6 +4,7 @@
             路由列表：
             <nuxt-link to="/">首页</nuxt-link>
             <nuxt-link to="/user">user</nuxt-link>
+            <nuxt-link to="/asyncData">asyncData</nuxt-link>
         </div>
         <div>=== 以下是内容 ===</div>
         <!--提示: 在布局文件中添加 <nuxt/> 组件用于显示页面的主体内容-->
